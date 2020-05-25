@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MusicPlayer_App</string>
+
+    <string name="title">Music Player</string>
+    <string name="play">PLAY</string>
+    <string name="hindiSong_title">Hindi Songs</string>
+    <string name="englishSong_title">English Songs</string>
+    <string name="partySong_title">Party Songs</string>
+    <string name="loveSong_title">Love Songs</string>
+    <string name="title_activity_song">song</string>
+    <string name="playing">Playing&#8230;</string>
+
+    <string-array name="Song_Name">
+        <item>Pal</item>
+        <item>Naina Da Kya Kasoor</item>
+        <item>Closer</item>
+        <item>Feel Me</item>
+        <item>Teri Mitti</item>
+        <item>Yummy</item>
+        <item>Tera Yaar Hoon Main</item>
+        <item>Perfect</item>
+        <item>Coca Cola</item>
+        <item>Masakali 2.0</item>
+        <item>Cheap Thrills</item>
+        <item>Crush</item>
+        <item>Garmi</item>
+        <item>Baarish</item>
+        <item>Bom Diggi Diggi</item>
+        <item>Chogada</item>
+        <item>Memories</item>
+        <item>Midnight</item>
+    </string-array>
+    <string-array name="Song_Artist">
+        <item>Arijit Singh</item>
+        <item>Amit Trivedi</item>
+        <item>The Chainsmokers</item>
+        <item>Selena Gomez</item>
+        <item>B Praak</item>
+        <item>Justin Bieber</item>
+        <item>Arijit Singh</item>
+        <item>Ed Sheeran</item>
+        <item>Neha Kakkar, Tony Kakkar, Young Desi</item>
+        <item>Tulsi Kumar, Mohit Chauhan, Sachet Tandon</item>
+        <item>Sia, Sean Paul</item>
+        <item>David Archuleta</item>
+        <item>Neha Kakkar, Badshah</item>
+        <item>Ash King</item>
+        <item>Zack Knight</item>
+        <item>Darshan Raval</item>
+        <item>Maroon 5</item>
+        <item>Alesso, Liam Payne</item>
+    </string-array>
+    <string-array name="PosterURL">
+        <item>https://a10.gaanacdn.com/images/song/6/24225706/crop_480x480_1536745597.jpg</item>
+        <item>https://a10.gaanacdn.com/images/song/96/24232596/crop_175x175_1536921442.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/a/a5/Closer_%28featuring_Halsey%29_%28Official_Single_Cover%29_by_The_Chainsmokers.png</item>
+        <item>https://yve-style.com/wp-content/uploads/2020/02/Selena-Gomez-feel-me.jpg</item>
+        <item>https://i.pinimg.com/originals/70/ec/b5/70ecb58ebef1ae4e6abbf86f79c1d3c0.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/c/c3/Justin_Bieber_-_Yummy.png</item>
+        <item>https://i1.sndcdn.com/artworks-000509482761-b6y4ob-t500x500.jpg</item>
+        <item>https://i.ytimg.com/vi/CWG-GDfejmY/maxresdefault.jpg</item>
+        <item>https://a10.gaanacdn.com/images/song/0/25433500/crop_480x480_1549262875.jpg</item>
+        <item>https://a10.gaanacdn.com/gn_img/albums/lJvKa56KDV/JvKaxvnRbD/size_xxl.jpg</item>
+        <item>https://i.ytimg.com/vi/J1b22l1kFKY/maxresdefault.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BZGUzYWU4MDItMGNiNS00ZjEzLTk4OGEtMTYzM2NmMGY1ZDM1XkEyXkFqcGdeQXVyMjgzMzAzMjE@._V1_.jpg</item>
+        <item>https://fijitimes.net.au/wp-content/uploads/2020/01/image00008.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/4/42/Baarish_%28Cover_Art%29.jpeg</item>
+        <item>https://a10.gaanacdn.com/images/song/87/23046587/crop_175x175_1518091053.jpg</item>
+        <item>https://i.ytimg.com/vi/NW8W3BBHuCA/maxresdefault.jpg</item>
+        <item>https://i.ytimg.com/vi/MAvJ5FyM6cI/maxresdefault.jpg</item>
+        <item>https://i.ytimg.com/vi/Uj5CKBdXh3I/maxresdefault.jpg</item>
+    </string-array>
+
+
+</resources>
