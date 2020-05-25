@@ -11,6 +11,7 @@ Android device running with Android OS 4.1 (API Level 16) or above. Designed for
 <li> How to create custom class in java </li>
 <li> Create Custom Adapter </li>
 <li> Implementing ListView with custom class and custom adapter </li>
+<li> Using Picasso library to download images from URl </li>
 </ul>
 
 ## Rubric followed for the Project
@@ -27,3 +28,6 @@ Android device running with Android OS 4.1 (API Level 16) or above. Designed for
 
 ## Screenshots
  <img src="https://github.com/manjirikolte/MusicPlayerStructure-AndroidApp/blob/master/Screenshots/Screenshot_1.jpg" width="270" height="500">   | <img src="https://github.com/manjirikolte/MusicPlayerStructure-AndroidApp/blob/master/Screenshots/Screenshot_2.jpg" width="270" height="500"> | <img src="https://github.com/manjirikolte/MusicPlayerStructure-AndroidApp/blob/master/Screenshots/Screenshot_3.jpg" width="270" height="500">
+
+## License
+License under the <a href="https://github.com/manjirikolte/MusicPlayerStructure-AndroidApp/blob/master/LICENSE.txt">MIT License </a>
