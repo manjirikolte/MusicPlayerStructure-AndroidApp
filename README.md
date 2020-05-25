@@ -24,3 +24,6 @@ Android device running with Android OS 4.1 (API Level 16) or above. Designed for
 <li> Should make use of OnClickListeners instead of XML attributes.</li>
 <li> Should not mock up or add real content. Static data from resources are allowed. As mock up is not allowed, Adapter Views and RecyclerView should not be used. This enables more practice with using layouts.</li>
 </ul>
+
+## Screenshots
+ <img src="https://github.com/manjirikolte/MusicPlayerStructure-AndroidApp/blob/master/Screenshots/Screenshot_1.jpg" width="270" height="500">   | <img src="https://github.com/manjirikolte/MusicPlayerStructure-AndroidApp/blob/master/Screenshots/Screenshot_2.jpg" width="270" height="500"> | <img src="https://github.com/manjirikolte/MusicPlayerStructure-AndroidApp/blob/master/Screenshots/Screenshot_3.jpg" width="270" height="500">
